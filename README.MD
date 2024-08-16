@@ -1,5 +1,8 @@
 # Planar Triangulations
 
+## Context
+This project was done for the TIPE test of the french preparatory class exams.
+
 ## Goals
 
 Goal of this project is to compare multiple triangulation algorithms, with a special focus on Delaunay Triangulation algorithms. 
