@@ -9,11 +9,8 @@ Goal of this project is to compare multiple triangulation algorithms, with a spe
 <p float="left">
   <img src="./ndt1_100_1000.png" width="45%" />
   <img src="./bw1_100_1000.png" width="45%" />
-  Set of points triangulation. Left: Non Delaunay triangulation, right: Delaunay triangulation
 </p>
-
-   
-  <figcaption style="text-align:left"><em>.</em></figcaption>
+  Set of points triangulation. Left: Non Delaunay triangulation, right: Delaunay triangulation
 
 ## Description
 
