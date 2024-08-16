@@ -6,11 +6,14 @@ This project was done for the TIPE test of the french preparatory class exams.
 ## Goals
 
 Goal of this project is to compare multiple triangulation algorithms, with a special focus on Delaunay Triangulation algorithms. 
+<p float="left">
+  <img src="./ndt1_100_1000.png" width="45%" />
+  <img src="./bw1_100_1000.png" width="45%" />
+  Set of points triangulation. Left: Non Delaunay triangulation, right: Delaunay triangulation
+</p>
 
-<figure>
-  <img src="./ndt1_100_1000.png" width="45%" /> <img src="./bw1_100_1000.png" width="45%" />
-  <figcaption style="text-align:left"><em>Set of points triangulation. Left: Non Delaunay triangulation, right: Delaunay triangulation.</em></figcaption>
-</figure>
+   
+  <figcaption style="text-align:left"><em>.</em></figcaption>
 
 ## Description
 
